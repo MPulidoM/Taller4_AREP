@@ -83,7 +83,7 @@ http://localhost:35000/hello
 ```
 Pagina Local - Home
 ```
-http://localhost:35000/
+http://localhost:35000
 ```
 - Par ver la ejecución de las pruebas , se debe usar el siguiente comando dentro del directorio del proyecto
 ```
