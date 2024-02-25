@@ -36,17 +36,14 @@ public class ComponentFileManagerTest {
         }
     }
 
-    //@Test
-    //public void testHTMLContent() throws IOException {
-    //componentFileManager = new ComponentFileManager();
-        //String html = ComponentFileManager.getHTMLPages();
-        //assertTrue(html.contains("<title>Pagina Present</title>"));
-        //assertTrue(html.contains("<pre>This is test file."));
-        //assertTrue(html.contains("This is the second line."));
-        //assertTrue(html.contains("This is the third line"));
-        //assertTrue(html.contains("This is the last line."));
-    }
+    @Test
+    public void testHTMLContent() throws IOException {
+        componentFileManager = new ComponentFileManager();
+        String html = ComponentFileManager.getHTMLPages();
+        assertTrue(html.contains("<title>File Adder</title>"));
 
+    }
+}
 
 
 
