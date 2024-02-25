@@ -31,7 +31,7 @@ El proyecto contiene:
 - [ComponentFileManagerTest](https://github.com/MPulidoM/Taller4_AREP/blob/main/src/test/java/edu/eci/arep/ComponentFileManagerTest.java). En la presente están las pruebas unitarias planteadas.
 
 
-### Requisitos previos
+## Requisitos previos
 
 [Maven](https://maven.apache.org/) : Con esta herramienta se creo la estructura del proyecto y se manejan las dependencias que se necesitan
 
@@ -42,7 +42,7 @@ Para asegurar una correcta instalación de Maven, es crucial confirmar que la ve
 java -version 
 ```
 
-### Instalando
+## Instalando
 
 Para poder ver el funcionamiento de este taller se debe hacer lo siguiente:
 
